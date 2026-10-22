@@ -1,0 +1,4 @@
+Model,MAE (₹),RMSE (₹),R² Score
+Linear Regression,54717.99,71379.7,0.948
+Decision Tree,185000.0,248897.57,0.374
+Random Forest,112587.5,131024.83,0.826

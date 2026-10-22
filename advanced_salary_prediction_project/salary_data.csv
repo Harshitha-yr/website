@@ -1,0 +1,16 @@
+Experience,Education,Age,Skills,JobRole,Salary
+0,UG,21,Python,Software Engineer,250000
+1,UG,22,Python,Software Engineer,320000
+2,UG,23,C++,Embedded Engineer,350000
+3,UG,24,Java,Software Engineer,400000
+4,PG,26,Python,Data Analyst,550000
+5,PG,27,Data Science,Data Analyst,650000
+6,PG,28,Python,Software Engineer,700000
+7,UG,29,Java,Embedded Engineer,600000
+8,PG,31,Data Science,Data Analyst,850000
+9,PG,32,C++,Embedded Engineer,750000
+10,PG,34,Python,Software Engineer,900000
+12,PG,36,Data Science,Data Analyst,1050000
+14,PG,39,C++,Embedded Engineer,1200000
+2,UG,24,Java,Data Analyst,380000
+5,PG,29,Python,Embedded Engineer,620000
