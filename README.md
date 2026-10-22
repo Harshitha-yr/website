@@ -1,2 +1,2 @@
-# website
-This is my repository for my website
+# advanced salary prediction system
+Web based salary prediction system using machine learning
